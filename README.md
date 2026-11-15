@@ -24,3 +24,7 @@ Choose one canonical hospitality repository:
 - No tests or release evidence
 
 Do not describe this repository as a completed or deployable product until verified source is added.
+
+## Complete project guide
+
+For a detailed, repository-specific explanation of product purpose, intended users, workflows, technical architecture, implementation status, validation, data/security boundaries and future milestones, read the [**Project Handbook**](docs/PROJECT_HANDBOOK.md). The handbook is a documentation assessment, not a certification of live features.
